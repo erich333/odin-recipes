@@ -1,5 +1,11 @@
 /* styles.css */
 
+* {
+    font-family: Verdana, Helvetica, sans-serif;
+    background-color: black;
+    color: wheat;
+}
+
 img {
     width: 700px;
     height: auto;
